@@ -1,5 +1,5 @@
 # Intermediate-project
-# Student Performance Analysis 📊
+# Student Performance Analysis 
 
 ## Description
 
